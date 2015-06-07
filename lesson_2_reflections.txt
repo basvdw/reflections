@@ -4,3 +4,6 @@ A: A hidden .git file is created to track the changes/commits.
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: The staging area holds files which you want to use in your repository and are changed, but not committed yet. Your working
    directory looks simular, with the difference that it saves files which aren't added to the repository
+   
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: You can compare the staging area with the repository to see what the changes are.
