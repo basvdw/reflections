@@ -12,3 +12,6 @@ A: fork = copy of someone else which you can edit on your own version with a git
    
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: You can solve merge conflicts or work offline while having the latest copy
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: Sharing files throuhg dropbox or drive or working on the same server, but making changes makes it a lot harder
