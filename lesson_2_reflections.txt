@@ -17,4 +17,6 @@ A: With diagrams it's very understandable how the path travels. How the logs see
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: Merging branches combines the code differences into 1 branches. This way a new feature can be added to the stable master
 
-Q:
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: If no manual input is required, merging goes automatically. But it can be hard to solve it manually. Often speaking
+to another developer is needed.
