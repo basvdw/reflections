@@ -14,4 +14,7 @@ A: When adding experimental changes or adding new features, but in the meantime,
 Q: How do the diagrams help you visualize the branch structure?
 A: With diagrams it's very understandable how the path travels. How the logs see all the parents and how branches work.
 
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: Merging branches combines the code differences into 1 branches. This way a new feature can be added to the stable master
+
 Q:
