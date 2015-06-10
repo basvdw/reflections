@@ -14,4 +14,8 @@ Q: What is the benefit of having a copy of the last known state of the remote st
 A: You can solve merge conflicts or work offline while having the latest copy
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-A: Sharing files throuhg dropbox or drive or working on the same server, but making changes makes it a lot harder
+A: Sharing files throuhg dropbox or drive or working on the same server, but making changes makes it a lot harder 
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits 
+   does each approach have?
+A: When adding a new feature, fixing large bugs, experimenting.
