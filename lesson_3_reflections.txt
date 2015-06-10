@@ -9,3 +9,6 @@ Q: Describe the differences between forks, clones, and branches. When would you 
 A: fork = copy of someone else which you can edit on your own version with a github-link between them
    clone = as fork, but without the connection
    branche = copy of the master locally on which you can work to add a new feature
+   
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: You can solve merge conflicts or work offline while having the latest copy
